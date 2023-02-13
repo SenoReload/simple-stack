@@ -5,3 +5,4 @@ Check stacks for a simple CRUD, then document it and make it work. Simple test f
 
 
 ## CI/CD
+![Alt text](images/devops-windows-architecture.png)
