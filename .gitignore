@@ -99,4 +99,4 @@ GitHub.sublime-settings
 !.vscode/extensions.json 
 .history
 
-.vsidx
+*.vsidx
